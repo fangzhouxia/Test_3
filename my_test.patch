@@ -1,0 +1,9 @@
+diff --git a/test_3.txt b/test_3.txt
+index 819cc44..61ee3b3 100644
+--- a/test_3.txt
++++ b/test_3.txt
+@@ -1 +1 @@
+-haha
+\ No newline at end of file
++//haha
+\ No newline at end of file
